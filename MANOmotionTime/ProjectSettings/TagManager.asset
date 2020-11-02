@@ -12,6 +12,7 @@ TagManager:
   - target
   - rocket
   - RayCamera
+  - Enemy
   layers:
   - Default
   - TransparentFX
