@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/MAINPROJECT/ARCADE.unity
+- path: Assets/AvraamContribution/Scenes/CleanUpArcade.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
